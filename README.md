@@ -291,15 +291,18 @@ Mientras que los ficheros de audio se encuentran en la carpeta wav de esta misma
 
 Tenemos:
   Segunda imagen (estereo2mono()):
+  
     - Canal Izquierdo (Instrumentos) en el fichero (wav/wav_komm_L.wav)
     - Canal Derecho (Voces/Palmas) en el fichero (wav/wav_komm_R.wav)
     - Semidiferencia en el fichero (wav/wav_komm_semidiferencia.wav)
     - Semisuma (Mezcla mono completa) en el fichero (wav/wav_komm_semisuma.wav)
 
   Tercera imagen (mono2estereo):
+  
     - Fusión (wav/wav_komm_restaurado.wav)
 
-  Cuarta imagen (codEstereo() y decEstereo())
+  Cuarta imagen (codEstereo() y decEstereo())_
+  
     - Codificación 32 bits (wav/wav_komm_codificado32.wav)
     - Decodificación 32 bits (wav/komm_reconstruido_32.wav)
 
