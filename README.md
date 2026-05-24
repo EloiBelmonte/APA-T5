@@ -290,6 +290,7 @@ innecesariamente la canción.
 Mientras que los ficheros de audio se encuentran en la carpeta wav de esta misma práctica. 
 
 Tenemos:
+
   Segunda imagen (estereo2mono()):
   
     - Canal Izquierdo (Instrumentos) en el fichero (wav/wav_komm_L.wav)
