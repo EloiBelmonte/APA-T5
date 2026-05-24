@@ -271,13 +271,20 @@ Para ello, se recomienda usar la canción [Komm, gib mir deine Hand](wav/komm.wa
 De todos modos, recuerde que, aunque sea en alemán, se trata de los Beatles, así que procure no destrozar
 innecesariamente la canción.
 
-![Ejecución de tests](.img/PR5_1.png)
+![Ejecución de tests](img/PR5_1.png)
+
 <br>
-![Ejecución de tests](.img/PR5_2.png)
+
+![Ejecución de tests](img/PR5_2.png)
+
 <br>
-![Ejecución de tests](.img/PR5_3.png)
+
+![Ejecución de tests](img/PR5_3.png)
+
 <br>
-![Ejecución de tests](.img/PR5_4.png)
+
+![Ejecución de tests](img/PR5_4.png)
+
 <br> 
 
 #### Código desarrollado
